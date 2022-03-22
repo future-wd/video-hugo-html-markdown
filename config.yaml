@@ -36,3 +36,8 @@ menu:
     weight: 100
     params:
       blank: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
