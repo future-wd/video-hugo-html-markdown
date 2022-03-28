@@ -17,11 +17,6 @@ copyright: Web Design Inc.
 paginate: 5
 # controls the summary length on list pages
 summaryLength: 7
-# this is required so that Hugo will render markdown to HTML
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
 
 # menu links via config file
 menu:
